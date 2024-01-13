@@ -1,2 +1,1 @@
-model = random.choice(['GT-S5282','GT-S5280','SM-G750F','SM-G7508','SM-G7508Q','SM-G750H','SM-G750A','SM-J200F','SM-J200G','SM-J200H','SM-J200GU','SM-J200M','SM-J200Y'])
-M4=[FBAN/FB4A;FBAV/163.0.0.43.91;FBBV/96845992;FBDM/{density=2.0,width=720,height=1280};FBLC/fr_FR;FBRV/97737839;FBCR/ROGERS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/'+model+';FBSV/6.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]=UA
+M4=[FBAN/FB4A;FBAV/163.0.0.43.91;FBBV/96845992;FBDM/{density=2.0,width=720,height=1280};FBLC/fr_FR;FBRV/97737839;FBCR/ROGERS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J200GU;FBSV/6.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]=UA
