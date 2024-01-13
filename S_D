@@ -1,1 +1,2 @@
-M4=[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=540,height=960};FBLC/fr_FR;FBCR/;FBMF/Enspert;FBBD/WIKO;FBPN/com.facebook.katana;FBDV/CINK PEAX 2;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]=UA
+model = random.choice(['GT-S5282','GT-S5280','SM-G750F','SM-G7508','SM-G7508Q','SM-G750H','SM-G750A','SM-J200F','SM-J200G','SM-J200H','SM-J200GU','SM-J200M','SM-J200Y'])
+M4=[FBAN/FB4A;FBAV/163.0.0.43.91;FBBV/96845992;FBDM/{density=2.0,width=720,height=1280};FBLC/fr_FR;FBRV/97737839;FBCR/ROGERS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/'+model+';FBSV/6.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]=UA
