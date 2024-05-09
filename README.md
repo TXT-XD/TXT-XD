@@ -1,22 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72121&size=25&duration=7000&center=true&vCenter=true&multiline=true&height=100&lines=%F0%9F%91%8F+WLC+bhoot-cyber-143+PROFILE+%F0%9F%91%8F)](https://git.io/typing-svg)
 
-<img src="https://github.com/BHOOT-CYBER-143/BHOOT-CYBER-143/blob/main/images.jpeg" />
+<img src="https://github.com/TXT-XD/TXT-XD/blob/main/images.jpeg" />
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=😍+Assalamu+Alaikum+🖤;+👿+It's+Not+Only+Just+Name+,;It's+A+Brand+BHOOT-X+,,👿;Thank+You+Everyone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=😍+Assalamu+Alaikum+🖤;+👿+It's+Not+Only+Just+Name+,;It's+A+Brand+TXT-XD+,,👿;Thank+You+Everyone)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alifvau&label=Profile%20views&color=0e75b6&style=flat" alt="bhoot-cyber-143" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alifvau&label=Profile%20views&color=0e75b6&style=flat" alt="TXT-XD" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhoot-cyber-143" alt="bhoot-cyber-143" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TXT-XD" alt="TXT-XD" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Contact Me **https://www.facebook.com/cyber.king.tanim**
+- Contact Me **https://www.facebook.com/txt.cyber.143**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/cyber.king.tanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cyber.king.tanim" height="30" width="40" /></a>
+<a href="https://www.facebook.com/txt.cyber.143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cyber.king.tanim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
