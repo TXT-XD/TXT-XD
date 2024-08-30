@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72121&size=25&duration=7000&center=true&vCenter=true&multiline=true&height=100&lines=%F0%9F%91%8F+WLC+bhoot-cyber-143+PROFILE+%F0%9F%91%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72121&size=25&duration=7000&center=true&vCenter=true&multiline=true&height=100&lines=%F0%9F%91%8F+WLC+TXT-XD+PROFILE+%F0%9F%91%8F)](https://git.io/typing-svg)
 
 <img src="https://github.com/TXT-XD/TXT-XD/blob/main/images.jpeg" />
 
